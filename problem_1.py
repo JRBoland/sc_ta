@@ -28,10 +28,6 @@ packages_array = [
 Package("PKG1", 5, 5, "OFR001"),
 Package("PKG2", 15, 5, "OFR002"),
 Package("PKG3", 10, 100, "OFR003"),
-Package("PKG4", 68, 39, "OFR005"),
-Package("PKG5", 200, 30, "OFR001"),
-Package("PKG6", 199, 120, "OFR001"),
-Package("PKG7", 190, 50, "OFR002")
   ]
 
 def calculate_delivery_cost(): 
