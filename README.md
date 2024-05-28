@@ -2,9 +2,10 @@
 
 
 To run the programs, clone this repo, navigate to the directory using the command line, and run `python problem_1.py` or `python problem_2.py` \
-_Alternatively, run `python problem_1_user_input.py` to run the alternate solution for problem 1, which takes user input_
 
-_Resources are given in more detail with the attached reflections on problems and approach:_ 
+- _Alternatively, run `python problem_1_user_input.py` to run the alternate solution for problem 1, which takes user input_
+
+__Resources are given in more detail with the attached reflections on problems and approach:__ 
 - [Reflections on problems and approach](reflection_on_problems_and_approach.pdf) 
 - [Approach for problem 2](approach_problem_2.pdf)
 
