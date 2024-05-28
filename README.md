@@ -1,8 +1,12 @@
 Technical Assessment for SeenCulture
 
+
+To run the programs, clone this repo, navigate to the directory using the command line, and run `python problem_1.py` or `python problem_2.py` 
+
 Resources are given in more detail with the attached reflections on problems and approach: 
 - [Reflections on problems and approach](reflection_on_problems_and_approach.pdf) 
 - [Approach for problem 2](approach_problem_2.pdf)
+
 
 Problem 1 resources:\
 https://www.w3schools.com/python/python_classes.asp \
