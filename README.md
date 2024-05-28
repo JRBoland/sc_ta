@@ -4,8 +4,8 @@ Resources are given in more detail with the attached reflections on problems and
 [Reflections on problems and approach](reflection_on_problems_and_approach.pdf)
 [Approach for problem 2](approach_problem_2.pdf)
 
-Problem 1 resources:
-https://www.w3schools.com/python/python_classes.asp
+Problem 1 resources:\
+https://www.w3schools.com/python/python_classes.asp \
 https://www.w3schools.com/python/python_operators.asp 
 
 Problem 2 resources:
